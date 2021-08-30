@@ -9,17 +9,15 @@ I am a third year Engineering Student at the University of Cambridge. Apart from
 
 - https://www.herculescambridge.org.uk/
 
-#### My latest report
+#### Latest Report :pencil:
 
 - https://www.stockgeist.ai/qualcomm-stock-sentiment-analysis-august-2021/
 
-#### I am open to:
+#### I am open to :wrench::
 
 - any collobration work,
 - machine learning projects,
 - web debelopment projects, 
-
-
 
 <!---
 nczarli/nczarli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
