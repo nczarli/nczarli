@@ -1,7 +1,25 @@
-- 👋 Hi, I’m @nczarli
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently studying Engineering at the University of Cambridge
-- 📫 How to reach me: https://www.linkedin.com/in/nikodem-czarlinski-5b37a91a1/
+### Hi there, I'm Nikodem Czarlinski 👋
+
+I am a third year Engineering Student at the University of Cambridge. Apart from that I have worked as a full stack developer for firms and student run societies. I currently write regular equity research reports.
+
+#### Contributions Towards Websites :computer:
+
+
+- https://cascadeapp.co.uk/
+
+- https://www.herculescambridge.org.uk/
+
+#### My latest report
+
+- https://www.stockgeist.ai/qualcomm-stock-sentiment-analysis-august-2021/
+
+#### I am open to:
+
+- any collobration work,
+- machine learning projects,
+- web debelopment projects, 
+
+
 
 <!---
 nczarli/nczarli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
