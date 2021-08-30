@@ -1,6 +1,6 @@
 ### Hi there, I'm Nikodem Czarlinski 👋
 
-I am a third year Engineering Student at the University of Cambridge. Apart from that I have worked as a full stack developer for firms and student run societies. I currently write regular equity research reports.
+I am a third year Engineering Student at the University of Cambridge. Apart from that I have worked as a full stack developer for firms and student run societies. I currently write equity research reports for clients.
 
 #### Contributions Towards Websites :computer:
 
