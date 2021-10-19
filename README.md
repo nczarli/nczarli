@@ -18,9 +18,9 @@ I am a third year Engineering Student at the University of Cambridge. Apart from
 
 #### I am open to :wrench::
 
-- any collobration work,
+- any collaboration work,
 - machine learning projects,
-- web debelopment projects, 
+- web development projects, 
 
 <!---
 nczarli/nczarli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
