@@ -15,6 +15,7 @@ I am a third year Engineering Student at the University of Cambridge. Apart from
 
 - https://www.stockgeist.ai/qualcomm-stock-sentiment-analysis-august-2021/
 - https://www.stockgeist.ai/novartis-ag-stock-sentiment-analysis-20th-29th-september/
+- https://www.stockgeist.ai/coinbase-stock-sentiment-report/
 
 #### I am open to :wrench::
 
